@@ -1,0 +1,32 @@
+.a {
+  display: block;
+  width: 1120px;
+  height: 400px;
+  margin: 10px;
+  border: 2px solid black;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  background: #c9c9d2;
+ 
+  overflow: auto;
+  
+
+}
+
+.b {
+  box-sizing: border-box;
+  display: inline-block;
+  max-width: 250px;
+  min-height: 150px;
+  
+  border-radius: 15px;
+  margin: 5px;
+  padding: 25px;
+  background: #bc9b6a;
+  box-shadow: -1px -1px 8px inset;
+
+}
+
+.p {
+  
+}
